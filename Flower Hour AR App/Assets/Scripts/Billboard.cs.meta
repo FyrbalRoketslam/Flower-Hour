@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d1f616e223cddb941a277f535ee1ec44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AR_Camera: {instanceID: 0}
+  - deflower: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
