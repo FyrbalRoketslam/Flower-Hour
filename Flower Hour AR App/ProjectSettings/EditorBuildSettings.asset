@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AR_Button2.unity
     guid: 135a90418a2345843add904575cbf3b9
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: 6fbcf94961d81344b96c129a8d6a7615
   m_configObjects: {}
