@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83e233fc48f7274bbff3a1e48f8f27e, type: 3}
+  m_Name: SeedStory
+  m_EditorClassIdentifier: 
+  lillian: {fileID: 4959730017553146656, guid: 0f57017ee1be56e429326d0978de3bf3, type: 3}
+  lines:
+  - lillian: {fileID: -168712422265547887, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    sentence: Hello, I am Professor Lillian. I, like you, am admiring the beauty
+      of this flower.
+  - lillian: {fileID: 8587731341161500902, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    sentence: Hey, how about you look around with me, and I will teach you how this
+      came to be.
+  - lillian: {fileID: -288839143873683177, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    sentence: Hit 'Next' and I'll begin by teaching you about SEEDS.
+  - lillian: {fileID: 6133049095581160690, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    sentence: Here we go!
+  - lillian: {fileID: -288839143873683177, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    sentence: First off, you can't have flowers without seeds. Almost every plant
+      grows from a seed. A small plant can grow in a few months, but a big tree can
+      take many years to fully grow.
+  - lillian: {fileID: -168712422265547887, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    sentence: All plants need water and sunlight to help them grow. Most plants also
+      grow best when planted in soil, but soil is not a requirement for plant growth.
+  - lillian: {fileID: 6133049095581160690, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    sentence: You can grow a plant without soil! Isn't that cool?
+  - lillian: {fileID: -1109001742815187489, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    sentence: 'Just like people, plants need time to grow. Once a seed starts growing
+      its roots, GERMINATION begins. '
+  - lillian: {fileID: -7011438220030796006, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    sentence: Before we get into that, though, let's see what you know.
+  - lillian: {fileID: -288839143873683177, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    sentence: Hit 'Next' to begin a small game.
