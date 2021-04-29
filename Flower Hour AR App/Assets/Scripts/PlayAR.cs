@@ -19,6 +19,11 @@ public class PlayAR : MonoBehaviour
     {
         SceneManager.LoadScene("Menu");
     }
+    public void BadgeMenu()
+    {
+        SceneManager.LoadScene("BadgeMenu");
+    }
+
     public void QuitGame()
     {
         Application.Quit();
