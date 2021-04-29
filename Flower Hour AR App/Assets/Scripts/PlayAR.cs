@@ -13,7 +13,7 @@ public class PlayAR : MonoBehaviour
 
     public void PlayStory()
     {
-        SceneManager.LoadScene("Story");
+        SceneManager.LoadScene("SeedStory");
     }
     public void MainMenu()
     {
