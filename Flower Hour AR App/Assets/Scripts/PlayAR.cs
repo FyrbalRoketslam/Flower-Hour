@@ -11,6 +11,10 @@ public class PlayAR : MonoBehaviour
         SceneManager.LoadScene("AR_Button2");
     }
 
+    public void PlayStory()
+    {
+        SceneManager.LoadScene("Story");
+    }
     public void MainMenu()
     {
         SceneManager.LoadScene("Menu");
