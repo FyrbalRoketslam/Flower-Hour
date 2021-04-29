@@ -1198,7 +1198,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 1. ???
+  m_text: 1. Seed badge
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1292,7 +1292,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1152443239
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2067,7 +2067,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1931843323
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2343,7 +2343,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2126842617
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2409,13 +2409,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 966503501}
     m_Modifications:
+    - target: {fileID: 8230605222741118176, guid: c5bd02ed3f1f0314cbbbe2bd981bb672, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 84d3668fd92cebc45be6d1be57f6db1e, type: 3}
     - target: {fileID: 8230605222741118178, guid: c5bd02ed3f1f0314cbbbe2bd981bb672, type: 3}
       propertyPath: m_Name
       value: SeedBadge
       objectReference: {fileID: 0}
     - target: {fileID: 8230605222741118178, guid: c5bd02ed3f1f0314cbbbe2bd981bb672, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8230605222741118179, guid: c5bd02ed3f1f0314cbbbe2bd981bb672, type: 3}
       propertyPath: m_Pivot.x
