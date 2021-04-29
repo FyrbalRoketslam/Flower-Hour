@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: SeedStory
   m_EditorClassIdentifier: 
   lillian: {fileID: 4959730017553146656, guid: 0f57017ee1be56e429326d0978de3bf3, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: b7b6ab8a312b68f489b550eb2964e1e4, type: 3}
   lines:
   - lillian: {fileID: -168712422265547887, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
     audio: {fileID: 8300000, guid: b7b6ab8a312b68f489b550eb2964e1e4, type: 3}
