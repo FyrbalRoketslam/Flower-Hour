@@ -26,7 +26,8 @@ public class ARTapToPlaceObject : MonoBehaviour
     {
         if(Input.touchCount > 0)
         {
-            touchPosition = Input.GetTouch(0).position;
+            touchPosition = new Vector2(Screen.width, Screen.height);
+                //Input.GetTouch(0).position;
             return true;
         }
 
