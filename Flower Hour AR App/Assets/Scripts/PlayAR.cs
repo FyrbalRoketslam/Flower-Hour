@@ -23,6 +23,10 @@ public class PlayAR : MonoBehaviour
     {
         SceneManager.LoadScene("BadgeMenu");
     }
+    public void CorrectAnswer()
+    {
+        SceneManager.LoadScene("SeedComplete");
+    }
 
     public void QuitGame()
     {
