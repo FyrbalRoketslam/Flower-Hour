@@ -13,30 +13,41 @@ MonoBehaviour:
   m_Name: SeedStory
   m_EditorClassIdentifier: 
   lillian: {fileID: 4959730017553146656, guid: 0f57017ee1be56e429326d0978de3bf3, type: 3}
+  audio: {fileID: 0}
   lines:
   - lillian: {fileID: -168712422265547887, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    audio: {fileID: 8300000, guid: b7b6ab8a312b68f489b550eb2964e1e4, type: 3}
     sentence: Hello, I am Professor Lillian. I, like you, am admiring the beauty
       of this flower.
   - lillian: {fileID: 8587731341161500902, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    audio: {fileID: 8300000, guid: ded3db6b60afaed45b6b902d5720e8e0, type: 3}
     sentence: Hey, how about you look around with me, and I will teach you how this
       came to be.
   - lillian: {fileID: -288839143873683177, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    audio: {fileID: 8300000, guid: 68aaa3a79b7b8724db53b262e3b897fc, type: 3}
     sentence: Hit 'Next' and I'll begin by teaching you about SEEDS.
   - lillian: {fileID: 6133049095581160690, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    audio: {fileID: 8300000, guid: 60ee81c414555a648b67903b1e200b54, type: 3}
     sentence: Here we go!
   - lillian: {fileID: -288839143873683177, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    audio: {fileID: 8300000, guid: a5eff9da36bb0ff49a591fe882c8cafa, type: 3}
     sentence: First off, you can't have flowers without seeds. Almost every plant
       grows from a seed. A small plant can grow in a few months, but a big tree can
       take many years to fully grow.
   - lillian: {fileID: -168712422265547887, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    audio: {fileID: 8300000, guid: 1df5d914e40b9f74caf8c2c65f26fd2a, type: 3}
     sentence: All plants need water and sunlight to help them grow. Most plants also
       grow best when planted in soil, but soil is not a requirement for plant growth.
   - lillian: {fileID: 6133049095581160690, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    audio: {fileID: 8300000, guid: ee47925851736d942a6205144701fbb5, type: 3}
     sentence: You can grow a plant without soil! Isn't that cool?
   - lillian: {fileID: -1109001742815187489, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    audio: {fileID: 8300000, guid: ddc49c84d68847548b29d03f199f5c53, type: 3}
     sentence: 'Just like people, plants need time to grow. Once a seed starts growing
       its roots, GERMINATION begins. '
   - lillian: {fileID: -7011438220030796006, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    audio: {fileID: 8300000, guid: 3ab3f7007db2815418d81f6f813032b5, type: 3}
     sentence: Before we get into that, though, let's see what you know.
   - lillian: {fileID: -288839143873683177, guid: 38c71d7998d81384db263aa90e831aa2, type: 3}
+    audio: {fileID: 8300000, guid: 1566bee4ae97b2e4dabd146598a2c06e, type: 3}
     sentence: Hit 'Next' to begin a small game.

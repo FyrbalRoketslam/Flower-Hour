@@ -7,6 +7,7 @@ using UnityEngine.UI;
 public struct Line
 {
     public Sprite lillian;
+    public AudioClip audio;
 
     [TextArea(3, 20)]
     public string sentence;
@@ -16,6 +17,7 @@ public struct Line
 public class Dialogue : ScriptableObject
 {
     public Image lillian;
+    public AudioClip audio;
     public Line[] lines;
 
     //public Image lillian;

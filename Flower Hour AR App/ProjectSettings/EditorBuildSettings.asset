@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: e34c817caa3d362429daf000448736af
   - enabled: 1
-    path: Assets/Scenes/Story.unity
+    path: Assets/Scenes/SeedStory.unity
     guid: 6fbcf94961d81344b96c129a8d6a7615
   - enabled: 1
     path: Assets/Scenes/AR_Button2.unity
@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BadgeMenu.unity
     guid: 8688278573437934abc339da5e8f8f5e
+  - enabled: 1
+    path: Assets/Scenes/SeedComplete.unity
+    guid: fc331970cacb86d43ae82d713db6979c
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9eb37cb95dfeac942b266b83ec304c42, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 15bd36d4e9e25a045b146768bbfb3254, type: 2}

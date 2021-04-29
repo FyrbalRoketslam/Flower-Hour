@@ -10,6 +10,7 @@ public class DialogueManager : MonoBehaviour
     public Image lillian;
     public Text textBox;
     public Button nextButton;
+    public AudioSource lineAudio;
 
     public string nextScene;
 
@@ -38,8 +39,10 @@ public class DialogueManager : MonoBehaviour
     {
         Line line = dialogue.lines[currentDialogueLine];
         Sprite sprite = line.lillian;
+        AudioClip audio = dialogue.audio;
 
         textBox.text = line.ToString();
+        lineAudio.PlayOneShot(audio);
         lillian.sprite = sprite;
     }
 }
