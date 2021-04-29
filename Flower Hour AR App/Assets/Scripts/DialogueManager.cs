@@ -39,7 +39,7 @@ public class DialogueManager : MonoBehaviour
     {
         Line line = dialogue.lines[currentDialogueLine];
         Sprite sprite = line.lillian;
-        AudioClip audio = dialogue.audio;
+        AudioClip audio = line.audio;
 
         textBox.text = line.ToString();
         lineAudio.PlayOneShot(audio);
