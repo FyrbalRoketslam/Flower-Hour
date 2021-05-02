@@ -14,7 +14,7 @@ public class DialogueManager : MonoBehaviour
 
     public string nextScene;
 
-    private int currentDialogueLine = 0;
+    private int currentDialogueLine = 1;
 
     // Start is called before the first frame update
     void Start()
@@ -40,8 +40,9 @@ public class DialogueManager : MonoBehaviour
         Line line = dialogue.lines[currentDialogueLine];
         Sprite sprite = line.lillian;
         AudioClip audio = line.audio;
+        string sentence = line.sentence;
 
-        textBox.text = line.ToString();
+        textBox.text = sentence;
         lineAudio.PlayOneShot(audio);
         lillian.sprite = sprite;
     }
