@@ -14,16 +14,21 @@ public class DialogueManager : MonoBehaviour
 
     public string nextScene;
 
-    private int currentDialogueLine = 1;
+    private int currentDialogueLine = 0;
 
     // Start is called before the first frame update
     void Start()
     {
-        DisplayLine();
+        NextDialogueLine();
     }
 
     public void NextDialogueLine()
     {
+        if (lineAudio.isPlaying)
+        {
+            lineAudio.Stop();
+        }
+
         if (currentDialogueLine < dialogue.lines.Length)
         {
             DisplayLine();

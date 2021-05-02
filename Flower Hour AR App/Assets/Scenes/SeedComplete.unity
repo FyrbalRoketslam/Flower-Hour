@@ -227,7 +227,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c84ba50d8c3b9448ad01f9e06b637a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogue: {fileID: 11400000, guid: 06ee1449bb7893449b398c1f2f972d1c, type: 2}
+  dialogue: {fileID: 11400000, guid: 9e9641b7753272040a2c5ee2d17f7c84, type: 2}
   lillian: {fileID: 1554377194}
   textBox: {fileID: 444162334}
   nextButton: {fileID: 872641000}
@@ -355,10 +355,10 @@ RectTransform:
   m_Father: {fileID: 361386643}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.06541101}
-  m_AnchorMax: {x: 0.94, y: 0.341767}
-  m_AnchoredPosition: {x: 9, y: 127.105804}
-  m_SizeDelta: {x: -5, y: -6.9447174}
+  m_AnchorMin: {x: 0.023000002, y: 0.06541101}
+  m_AnchorMax: {x: 0.94, y: 0.41700003}
+  m_AnchoredPosition: {x: 9.5, y: 112.605804}
+  m_SizeDelta: {x: 0, y: -35.944717}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &444162334
 MonoBehaviour:
