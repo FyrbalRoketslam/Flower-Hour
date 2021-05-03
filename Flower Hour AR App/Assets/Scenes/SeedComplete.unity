@@ -232,7 +232,7 @@ MonoBehaviour:
   textBox: {fileID: 444162334}
   nextButton: {fileID: 872641000}
   lineAudio: {fileID: 1622976610}
-  nextScene: AR_Button2
+  nextScene: Menu
 --- !u!4 &289290572
 Transform:
   m_ObjectHideFlags: 0
