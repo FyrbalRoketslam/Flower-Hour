@@ -17,7 +17,8 @@ public class PlayAR : MonoBehaviour
     }
     public void MainMenu()
     {
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene("BadgeMenu");
+        SceneManager.LoadScene("Menu", LoadSceneMode.Additive);
     }
     public void BadgeMenu()
     {
@@ -25,7 +26,8 @@ public class PlayAR : MonoBehaviour
     }
     public void CorrectAnswer()
     {
-        SceneManager.LoadScene("SeedComplete");
+        SceneManager.LoadScene("BadgeMenu");
+        SceneManager.LoadScene("SeedComplete", LoadSceneMode.Additive);
     }
 
     public void QuitGame()

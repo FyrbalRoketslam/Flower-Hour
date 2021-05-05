@@ -232,6 +232,7 @@ MonoBehaviour:
   textBox: {fileID: 444162334}
   nextButton: {fileID: 872641000}
   lineAudio: {fileID: 1622976610}
+  SeedBadge: {fileID: 0}
   nextScene: Menu
 --- !u!4 &289290572
 Transform:
@@ -282,7 +283,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.35741103}
-  m_AnchoredPosition: {x: 0, y: 1.9999847}
+  m_AnchoredPosition: {x: 0, y: 2}
   m_SizeDelta: {x: 0, y: 248}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &361386644
@@ -455,7 +456,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
-    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -677,7 +677,6 @@ Light:
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
-  m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
 --- !u!4 &1123885691
@@ -752,7 +751,6 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
 --- !u!223 &1470827338
 Canvas:
   m_ObjectHideFlags: 0

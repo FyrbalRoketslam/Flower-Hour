@@ -390,7 +390,7 @@ GameObject:
   - component: {fileID: 160207286}
   - component: {fileID: 160207285}
   m_Layer: 5
-  m_Name: Badges_Bttn
+  m_Name: Back_Bttn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1292,7 +1292,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1152443239
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1933,7 +1933,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1931843323
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2288,7 +2288,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2126842617
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2364,7 +2364,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8230605222741118178, guid: c5bd02ed3f1f0314cbbbe2bd981bb672, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8230605222741118179, guid: c5bd02ed3f1f0314cbbbe2bd981bb672, type: 3}
       propertyPath: m_Pivot.x
