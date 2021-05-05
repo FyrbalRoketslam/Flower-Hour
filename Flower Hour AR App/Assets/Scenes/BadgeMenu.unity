@@ -1226,6 +1226,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4767207586762863719, guid: f261a42febac32e4e8e5da7ff3a11b96, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.0997
+      objectReference: {fileID: 0}
     - target: {fileID: 4767207587089786464, guid: f261a42febac32e4e8e5da7ff3a11b96, type: 3}
       propertyPath: m_text
       value: 100%
